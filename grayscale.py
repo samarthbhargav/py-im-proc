@@ -55,7 +55,7 @@ if __name__ == "__main__":
     plt.subplot(2,2,3)
     plt.xticks([]),plt.yticks([])
     plt.title("Weighted Average")
-    plt.imshow(grey, cmap = cm.Greys_r)
+    plt.imshow(wgrey, cmap = cm.Greys_r)
     
     
     plt.show()
